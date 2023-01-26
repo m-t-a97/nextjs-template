@@ -1,0 +1,16 @@
+@use "vendors";
+
+html,
+body {
+  height: 100vh;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+}
+
+#__next {
+  height: 100%;
+  width: 100%;
+}
